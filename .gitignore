@@ -1,0 +1,20 @@
+dist
+!index.ts
+!character.ts
+.env
+node_modules
+dist/
+
+db.sqlite
+*sqlite
+.idea
+*.gguf
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+
+#generated files
+donSecretsInfo.txt
+encryptedSecretsUrls.txt
