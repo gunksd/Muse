@@ -1,7 +1,7 @@
-# Muse AI Agent
+# Muse33 AI Agent
 
 ## 项目简介
-Muse 是一个使用 ElizaOS Agentic AI 框架创建的 AI 代理，专门用于监控提取 Twitter 上的推文，并根据推文内容建议发行代币名称。该代理可以与用户通过 Twitter 进行交互。
+Muse33 是一个使用 ElizaOS Agentic AI 框架创建的 AI 代理，专门用于监控提取 Twitter 上的推文，并根据推文内容建议发行代币名称。该代理可以与用户通过 Twitter 进行交互。
 用于参与ETH杭州黑客松。
 
 ## 目前痛点
