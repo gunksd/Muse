@@ -1,7 +1,13 @@
-### WHAT THIS REPO IS
-This repo uses the ElizaOS Agentic AI framework to create an AI agent that interacts with your input (via terminal or twitter!).
-You give the agent a gift code and your wallet address and it will mint a gift NFT for you on the Avalanche Fuji Network.
+# Muse AI Agent
 
-The agent uses custom actions that interact with [Chainlink Functions](https://docs.chain.link/chainlink-functions).
+## 项目简介
+Muse 是一个使用 ElizaOS Agentic AI 框架创建的 AI 代理，专门用于监控提取 Twitter 上的推文，并根据推文内容建议发行代币名称。该代理可以与用户通过 Twitter 进行交互。
+用于参与ETH杭州黑客松。
 
-> The full gitbook walkthrough and tutorial is available at : https://cll-devrel.gitbook.io/elizaos-functions-twitter/
+## 目前痛点
+太多热点产生时都会产生分歧，会在同一时间诞生多个链上meme代币，大部分的人并不能分辨出哪个会走到最后，也不能预测未来的走向，但是我们的aiagent一旦诞生，如果用户让我们的muse去总结一个，就可以很快的形成共识，然后达到一个很显著的财富聚集效应，既缩小了人与人之间的信息差差距，同时也大大减轻了在这方面深耕的人们的时间成本，最后如果可以汇聚足够多的人的信任，那将会少很多的阴谋集团与rug，也能为行业的前景带来很多正面影响。
+
+## 功能特色
+- **推特监控**：监控指定用户（如CZ、Heyi、Justin Sun）的推文。
+- **代币建议**：根据推文内容自动生成并建议发行代币名称。
+
